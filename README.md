@@ -33,7 +33,7 @@ Relația `produse_furnizori` este de tip mulți-la-mulți (un furnizor vinde mai
 
 ## Diagrama
 
-![Diagrama bazei de date](docs/erd.png)
+![Diagrama bazei de date](erd.png)
 
 ## Cum se rulează
 
